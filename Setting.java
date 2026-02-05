@@ -2,8 +2,6 @@
  * Has a constant that stores the string representation of the display.
  * Has a constructor that gives a setting object an associated string representation of the display.
  * Has a toString() method that shows display when printed.
- *
- * Sources: Oracle Java Documentation
  */
 
 public enum Setting {
