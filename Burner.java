@@ -1,5 +1,5 @@
 //Julia Kolomiitseva and Will Drescher
-
+// Feb4 LO5
 /* Class: Burner - The purpose of this class is to modify the setting and temperature of a burner, and to print the status of a burner.
 
  * Has a temperature enum that is used in an updateTemperature() method that either raises or lowers the temp when the timer hits 0.
