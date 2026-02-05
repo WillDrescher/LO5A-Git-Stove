@@ -1,12 +1,12 @@
 //Julia Kolomiitseva and Will Drescher
-// Feb4 LO5
-/* Class: Burner - The purpose of this class is to modify the setting and temperature of a burner, and to print the status of a burner.
 
+/* Class: Burner - The purpose of this class is to modify the setting and temperature of a burner, and to print the status of a burner.
+ * Has constructor that sets temp COLD setting OFF
  * Has a temperature enum that is used in an updateTemperature() method that either raises or lowers the temp when the timer hits 0.
  * Has a constructor for a burner that sets burner to default of temp cold and setting off.
- * Has a getTemperature method so Stove class can access temperature of a burner.
+ * Has a getTemperature() method so Stove class can access temperature of a burner.
  * Has plusButton() and minusButton() methods to modify the setting of a burner.
- * 
+ * Has display() shows status of burner
  */
 
 public class Burner {
