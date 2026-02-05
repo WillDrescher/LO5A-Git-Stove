@@ -30,7 +30,7 @@ public class Stove {
 	 **** You must write the following method ****
 	 */
 	public void displayStove() {
-
+		
 	}
 	
 	/**
