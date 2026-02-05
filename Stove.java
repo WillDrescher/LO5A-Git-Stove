@@ -37,7 +37,7 @@ public class Stove {
 	        burner.display();  // this prints lines like [---].....cooool
 
 	        // check if any burner is blazing hot
-	        if (burner.getMyTemperature() == Burner.Temperature.BLAZING) {
+	        if (burner.getTemperature() == Burner.Temperature.BLAZING) {
 	            redLight = true;
 	        }
 	    }
